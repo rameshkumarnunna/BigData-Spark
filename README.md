@@ -25,4 +25,4 @@ d.	Determine the beer styles with highest average alcohol by volume
 
 e.	Determine the most brewed beer style
 
-5. Using MlLib to predict either beerstyle or abv content. You can use any statistical or machine learning model to predict. You can also come up with your own problem statement, and predict using any model available in MlLib.
+5.  Using MlLib to predict either beerstyle or abv content. You can use any statistical or machine learning model to predict. You can also come up with your own problem statement, and predict using any model available in MlLib.
